@@ -36,4 +36,41 @@ C:\Users\Денис\Documents\Visual Studio 2015\Projects\Nuntius\obj\Debug\andr
 C:\Users\Денис\Documents\Visual Studio 2015\Projects\Nuntius\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Денис\Documents\Visual Studio 2015\Projects\Nuntius\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\Денис\Documents\Visual Studio 2015\Projects\Nuntius\obj\Debug\Nuntius.dll.mdb
-C:\Users\Денис\Documents\Visual Studio 2015\Projects\Nuntius\bin\Debug\Nuntius.dll.mdb
+C:\Project\Nuntius\bin\Debug\Nuntius.dll
+C:\Project\Nuntius\bin\Debug\Nuntius.pdb
+C:\Project\Nuntius\bin\Debug\Nuntius.Nuntius.apk
+C:\Project\Nuntius\bin\Debug\Nuntius.Nuntius-Signed.apk
+C:\Project\Nuntius\obj\Debug\Nuntius.dll
+C:\Project\Nuntius\obj\Debug\Nuntius.pdb
+C:\Project\Nuntius\obj\Debug\android\bin\Nuntius.Nuntius.apk
+C:\Project\Nuntius\obj\Debug\res\layout\main.xml
+C:\Project\Nuntius\obj\Debug\res\values\strings.xml
+C:\Project\Nuntius\obj\Debug\res\drawable\icon.png
+C:\Project\Nuntius\obj\Debug\R.cs.flag
+C:\Project\Nuntius\obj\Debug\uploadflags.txt
+C:\Project\Nuntius\bin\Debug\Nuntius.dll.mdb
+C:\Project\Nuntius\bin\Debug\Java.Interop.dll.mdb
+C:\Project\Nuntius\bin\Debug\Mono.Android.dll.mdb
+C:\Project\Nuntius\bin\Debug\mscorlib.dll.mdb
+C:\Project\Nuntius\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Project\Nuntius\bin\Debug\System.Core.dll.mdb
+C:\Project\Nuntius\bin\Debug\System.dll.mdb
+C:\Project\Nuntius\bin\Debug\System.Net.Http.dll.mdb
+C:\Project\Nuntius\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Project\Nuntius\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Project\Nuntius\bin\Debug\System.Xml.dll.mdb
+C:\Project\Nuntius\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\Nuntius.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\System.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Project\Nuntius\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Project\Nuntius\obj\Debug\Nuntius.dll.mdb
+C:\Project\Nuntius\bin\Debug\Nuntius.dll.mdb
