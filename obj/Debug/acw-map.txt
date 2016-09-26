@@ -1,0 +1,4 @@
+Nuntius.MainActivity, Nuntius;md503bcfcdaed856b619ad57995cc197aab.MainActivity
+Nuntius.MainActivity, Nuntius, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md503bcfcdaed856b619ad57995cc197aab.MainActivity
+Nuntius.MainActivity;md503bcfcdaed856b619ad57995cc197aab.MainActivity
+nuntius.MainActivity;md503bcfcdaed856b619ad57995cc197aab.MainActivity
