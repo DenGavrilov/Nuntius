@@ -1,1 +1,1 @@
-<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">Nuntius</string></resources>
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">Nuntius</string><string name="sample_show_log">Show Log</string><string name="sample_hide_log">Hide Log</string></resources>

@@ -100,6 +100,10 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "Nuntius.dll" comes first in this list. */
 		"Nuntius.dll",
 		"Java.Interop.dll",
+		"MySql.Data.CF.dll",
+		"Refractored.PagerSlidingTabStrip.dll",
+		"Xamarin.Android.Support.v4.dll",
+		"Xamarin.Android.Support.v7.AppCompat.dll",
 		"System.Threading.dll",
 		"System.Runtime.dll",
 		"System.Collections.dll",

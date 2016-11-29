@@ -13,7 +13,7 @@ using Android.Widget;
 namespace Nuntius
 {
     [Activity(Label = "LoginActivity")]
-    public class LoginActivity : Activity
+    public class LoginActivity : BaseFragment
     {
         protected override void OnCreate(Bundle bundle)
         {
