@@ -60,11 +60,11 @@ namespace Nuntius
             {
                 ICharSequence cs;
                 if (position == 0)
-                    cs = new Java.Lang.String("Android");
+                    cs = new Java.Lang.String("Чаты");
                 else if(position==1)
-                    cs = new Java.Lang.String("IOS");
+                    cs = new Java.Lang.String("Контакты");
                 else
-                    cs = new Java.Lang.String("UWP");
+                    cs = new Java.Lang.String("Группы");
                 return cs;
             }
 
